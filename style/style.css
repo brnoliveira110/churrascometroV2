@@ -34,9 +34,3 @@ body {
 #reset {
   margin-top: 10px;
 }
-
-#divCarne,
-#divCerveja,
-#divBebida {
-  margin: auto;
-}
